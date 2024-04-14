@@ -1,0 +1,4 @@
+.bg-gradient-dark {
+    background: linear-gradient(to right, #000000, #343a40);
+    color: #fff;
+}
